@@ -30,6 +30,8 @@ Brief summary of scenario and project goal
 - What can you tell the cafe owner and why should they care 
 
 ## Folder Structure (EXAMPLE ONLY)
+```text
+.
 ├── data/
 │   ├── raw/
 │   └── cleaned/
@@ -41,4 +43,4 @@ Brief summary of scenario and project goal
 │   ├── 02_eda_insights.ipynb
 │   └── README.md
 └── slides/
-└── final_presentation.pptx
+    └── final_presentation.pptx
