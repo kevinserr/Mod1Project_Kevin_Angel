@@ -2,6 +2,7 @@
 
 ## Project Overview (1 Paragraph)
 Brief summary of scenario and project goal 
+(Figma Kaban Board)[https://www.figma.com/board/juOigrlEdvkUQz318G1yUE/Mod1_Final-Project-Kaban-Board?node-id=0-1&t=9t959gGv1UOWJsVn-1]
 
 ## Business Questions 
 - What are the peak sales months?
