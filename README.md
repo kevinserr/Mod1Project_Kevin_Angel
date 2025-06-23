@@ -6,9 +6,15 @@ Brief summary of scenario and project goal
 
 ## Business Questions 
 - What are the peak sales months?
+    - We found that sales peaked in June
 - Are weekends busier than weekdays?
+    - Yes weekends are buiser than weekends. Thursday experiences the most sales, followed by Friday and Sunday.
+    - The least busy day of the week is Wednesday.
 - Any other findings stand out and relevant to the stakeholders?
+    - We found that salads made up most of their sales on any given day. Cookies' were their least sold item. </p>
 - How reliable was the data?  What cleaning was needed?
+    - For all columns, we renamed anything that was "UNKNOWN". "ERROR" or Blank to "BLANK"
+    - In order to figure out the most sucessful months and days of the week we had to exclude about 460 records. We felt it would negatively skew our data if we used any form of imputation to fill in our "BLANK" with fake dates. </p>
 
 ## Data Cleaning Summary 
 - Data type corrections made
@@ -17,7 +23,9 @@ Brief summary of scenario and project goal
 - Any columns dropped or imputed (and why)
 
 ## Key Findings
-- Summary stats (mean, median, etc.)
+- Summary stats:
+    -![image](https://github.com/user-attachments/assets/6a99ed30-4a67-4ab4-ab60-3e5f255d3fdf)
+ 
 - Insights from trends by month/day
 - Additional analysis looked at
 - Any bonus feature engineering
