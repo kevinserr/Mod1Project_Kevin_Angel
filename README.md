@@ -23,7 +23,9 @@ Brief summary of scenario and project goal
 - Any columns dropped or imputed (and why)
 
 ## Key Findings
-- Summary stats (mean, median, etc.)
+- Summary stats:
+    -![image](https://github.com/user-attachments/assets/6a99ed30-4a67-4ab4-ab60-3e5f255d3fdf)
+ 
 - Insights from trends by month/day
 - Additional analysis looked at
 - Any bonus feature engineering
