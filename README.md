@@ -38,18 +38,19 @@ Brief summary of scenario and project goal
 ## Takeaways & Recommendations 
 - What can you tell the cafe owner and why should they care 
 
-## Folder Structure (EXAMPLE ONLY)
+## Folder Structure
 ```text
 .
 ├── data/
 │   ├── raw/
+│         └── cafe_sales.csv
 │   └── cleaned/
+│        └── cleanedCafeSalesPython.csv
+│        └── cleanedCafeSalesPython.xlsx
 ├── excel/
 │   ├── analysis_workbook.xlsx
-│   └── cleaning_template.xlsx
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda_insights.ipynb
-│   └── README.md
+│   ├── main.ipynb
 └── slides/
-    └── final_presentation.pptx
+│   └── final_presentation.pptx
+└── README.md
