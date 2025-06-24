@@ -43,13 +43,27 @@ Our plan is to first clean the dataset, addressing any missing values as accurat
 
 
 ## Takeaways & Recommendations 
-- Offer weekday promotions to drive sales
-  - 10% off Coffee or Tea to incentivise sales on slower weekdays. 
-- Leverage salad sales to improve other type of item sales
-  - Bundle salads with juice or sandwich to improve those item’s sales
-- Create bundles such as with the purchase of a coffee get a cookie for 15% off
-  - This should improve overall sales for cookies
-  - Or buy 2 get 1 for free on cookies
+Weekday Promotions to Drive Sales
+  - 10% Off Coffee or Tea (Monday–Thursday)
+  - Encourage more weekday visits
+  - Boost morning and afternoon sales
+  - Salad Combo Bundles
+  - Salad + Juice Bundle: Save $1.50 when purchased together
+  - Salad + Sandwich Bundle: Get 10% off the sandwich with any salad
+  - Leverage strong salad sales to lift other categories
+
+Cookie Promotions
+
+  - Coffee + Cookie Deal: Buy any coffee, get a cookie for 15% off
+  - Buy 2 Get 1 Free on Cookies: Increases order value and moves more product
+    
+Suggested Weekly Structure
+
+  - Monday: 10% off Coffee or Tea
+  - Tuesday: Salad + Juice Combo
+  - Wednesday: Buy 2 Cookies, Get 1 Free
+  - Thursday: Salad + Sandwich Combo
+  - Friday: Coffee + Cookie for 15% off
 
 
 ## Folder Structure
