@@ -1,7 +1,16 @@
 # Descriptive Project Title i.e. "Cafe Financial Analysis & Insights" 
 
 ## Project Overview (1 Paragraph)
-Brief summary of scenario and project goal 
+Angel and I have been hired by the owner of a popular café chain to clean and analyze their messy transaction dataset. The original dataset includes the following columns: Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location, and Transaction Date.
+
+Our goal is to uncover meaningful trends within the café's sales data. Specifically, we aim to determine:
+
+- Which item sells the best
+- Which month generates the most profit
+- Which day of the week is the most successful over the course of a year.
+  
+Our plan is to first clean the dataset, addressing any missing values as accurately as possible without introducing false information that could distort our findings. Ultimately, we hope to provide data-driven recommendations to help the café improve overall sales and performance.
+
 [Figma Kaban Board](https://www.figma.com/board/juOigrlEdvkUQz318G1yUE/Mod1_Final-Project-Kaban-Board?node-id=0-1&t=9t959gGv1UOWJsVn-1)
 
 ## Business Questions 
